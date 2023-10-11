@@ -1,4 +1,4 @@
-function Footer() {
+const Footer = () => {
     return (
       <footer className="page-footer  green darken-4">
         <div className="footer-copyright">

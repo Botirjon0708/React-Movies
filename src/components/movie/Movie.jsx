@@ -1,4 +1,4 @@
-function Movie(props) {
+const Movie = (props) => {
   const {
     Title: title,
     Year: year,

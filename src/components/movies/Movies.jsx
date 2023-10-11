@@ -1,6 +1,6 @@
 import { Movie } from "../movie/Movie"
 
-function Movies(props) {
+const Movies = (props) => {
     const { movies = [] } = props
     
     return (
